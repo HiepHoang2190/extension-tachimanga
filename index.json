@@ -27850,7 +27850,7 @@
     "apk": "tachiyomi-vi.nettruyen-v1.4.28.apk",
     "lang": "vi",
     "code": 28,
-    "version": "1.4.29",
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27859,7 +27859,7 @@
         "name": "NetTruyen",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "https://nettruyenco.vn/",
+        "baseUrl": "https://www.nettruyenee.com/",
         "versionId": 1
       }
     ]
